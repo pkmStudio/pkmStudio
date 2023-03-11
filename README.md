@@ -37,3 +37,4 @@
    ![Python](https://img.shields.io/badge/Python-c998c9?style=for-the-badge&logo=Python)
 
 ## Folow me
+   [![Telegram](https://img.shields.io/badge/Telegram-c998c9?style=for-the-badge&logo=Telegram)](https://t.me/pmkStudio)
