@@ -14,11 +14,10 @@
 
 
 + ### Front End
-   ![HTML](https://img.shields.io/badge/HTML-3b0056?style=for-the-badge&logo=HTML5&logoColor=5c88cb)
+   ![HTML](https://img.shields.io/badge/HTML-fcb9fc?style=for-the-badge&logo=HTML5&logoColor=5c88cb)
    ![CSS](https://img.shields.io/badge/CSS-3b0056?style=for-the-badge&logo=CSS3)
    ![BEM](https://img.shields.io/badge/BEM-3b0056?style=for-the-badge&logo=BEM&logoColor=4a8414)
    ![SCSS](https://img.shields.io/badge/SCSS-3b0056?style=for-the-badge&logo=Sass&logoColor=d93a3a)
-   ![Flexbox](https://img.shields.io/badge/Flexbox-3b0056?style=for-the-badge&logo=FLEXBOX&logoColor=dad535)
    ![Figma](https://img.shields.io/badge/Figma-3b0056?style=for-the-badge&logo=Figma&logoColor=35d2da)
    ![Javascript](https://img.shields.io/badge/Javascript-3b0056?style=for-the-badge&logo=Javascript&logoColor=dad535)
    ![Jquery](https://img.shields.io/badge/Jquery-3b0056?style=for-the-badge&logo=Jquery&logoColor=da3561)
