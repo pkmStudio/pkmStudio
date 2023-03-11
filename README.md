@@ -12,27 +12,29 @@
 
 ## Languages and Tools
 
-### Front End
-![HTML](https://img.shields.io/badge/HTML-3b0056?style=for-the-badge&logo=HTML5&logoColor=5c88cb)
-![CSS](https://img.shields.io/badge/CSS-3b0056?style=for-the-badge&logo=CSS3)
-![BEM](https://img.shields.io/badge/BEM-3b0056?style=for-the-badge&logo=BEM&logoColor=4a8414)
-![Pixel_Perfect](https://img.shields.io/badge/Pixel_Perfect-3b0056?style=for-the-badge&logo=&logoColor=4a8414)
-![SCSS](https://img.shields.io/badge/SCSS-3b0056?style=for-the-badge&logo=Sass&logoColor=d93a3a)
-![Flexbox](https://img.shields.io/badge/Flexbox-3b0056?style=for-the-badge&logo=FLEXBOX&logoColor=dad535)
-![Figma](https://img.shields.io/badge/Figma-3b0056?style=for-the-badge&logo=Figma&logoColor=35d2da)
-![Javascript](https://img.shields.io/badge/Javascript-3b0056?style=for-the-badge&logo=Javascript&logoColor=dad535)
-![AJAX](https://img.shields.io/badge/AJAX-3b0056?style=for-the-badge&logo=AJAX&logoColor=da3561)
-![Jquery](https://img.shields.io/badge/Jquery-3b0056?style=for-the-badge&logo=Jquery&logoColor=da3561)
-![Gulp](https://img.shields.io/badge/Gulp-3b0056?style=for-the-badge&logo=Gulp&logoColor=43da35)
 
-### Back End
-![PHP](https://img.shields.io/badge/PHP-3b0056?style=for-the-badge&logo=PHP&logoColor=da35da)
-![MySQL](https://img.shields.io/badge/MySQL-3b0056?style=for-the-badge&logo=MySQL&logoColor=43da35)
++ ### Front End
+   ![HTML](https://img.shields.io/badge/HTML-3b0056?style=for-the-badge&logo=HTML5&logoColor=5c88cb)
+   ![CSS](https://img.shields.io/badge/CSS-3b0056?style=for-the-badge&logo=CSS3)
+   ![BEM](https://img.shields.io/badge/BEM-3b0056?style=for-the-badge&logo=BEM&logoColor=4a8414)
+   ![SCSS](https://img.shields.io/badge/SCSS-3b0056?style=for-the-badge&logo=Sass&logoColor=d93a3a)
+   ![Flexbox](https://img.shields.io/badge/Flexbox-3b0056?style=for-the-badge&logo=FLEXBOX&logoColor=dad535)
+   ![Figma](https://img.shields.io/badge/Figma-3b0056?style=for-the-badge&logo=Figma&logoColor=35d2da)
+   ![Javascript](https://img.shields.io/badge/Javascript-3b0056?style=for-the-badge&logo=Javascript&logoColor=dad535)
+   ![Jquery](https://img.shields.io/badge/Jquery-3b0056?style=for-the-badge&logo=Jquery&logoColor=da3561)
+   ![Gulp](https://img.shields.io/badge/Gulp-3b0056?style=for-the-badge&logo=Gulp&logoColor=43da35)
+
+
++ ### Back End
+   ![PHP](https://img.shields.io/badge/PHP-3b0056?style=for-the-badge&logo=PHP&logoColor=da35da)
+   ![MySQL](https://img.shields.io/badge/MySQL-3b0056?style=for-the-badge&logo=MySQL&logoColor=43da35)
+
 
 ## Plans
-![Vue3](https://img.shields.io/badge/Vue_3-3b0056?style=for-the-badge&logo=V&logoColor=5c88cb)
-![Angular](https://img.shields.io/badge/Angular-3b0056?style=for-the-badge&logo=Angular)
-![Laravel](https://img.shields.io/badge/Laravel-3b0056?style=for-the-badge&logo=Laravel)
-![Java](https://img.shields.io/badge/Java-3b0056?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3b0056?style=for-the-badge&logo=Python)
+   ![Vue3](https://img.shields.io/badge/Vue_3-3b0056?style=for-the-badge&logo=V&logoColor=5c88cb)
+   ![Angular](https://img.shields.io/badge/Angular-3b0056?style=for-the-badge&logo=Angular)
+   ![Laravel](https://img.shields.io/badge/Laravel-3b0056?style=for-the-badge&logo=Laravel)
+   ![Java](https://img.shields.io/badge/Java-3b0056?style=for-the-badge)
+   ![Python](https://img.shields.io/badge/Python-3b0056?style=for-the-badge&logo=Python)
+
 ## Folow me
