@@ -1,16 +1,24 @@
-### Hi there 👋
+# Всем привет!
 
-<!--
-**pmkStudio/pmkStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+## Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ ### Front End
+    > HTML
+    
+    > CSS
+    >> BEM
+    >> SASS
+   
+    > JS
+    >> Основы
+    >> DOM
+    >> Прототипирование
+    >> Замыкание
+    >> AJAX
+    
+    > Vue - мельком прошел, почти не знаком
++ ### Back End
+
+## Folow me
