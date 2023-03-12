@@ -21,8 +21,9 @@
    ![Figma](https://img.shields.io/badge/Figma-fcb9fc?style=for-the-badge&logo=Figma&logoColor=35d2da)
    ![Javascript](https://img.shields.io/badge/Javascript-c998c9?style=for-the-badge&logo=Javascript&logoColor=dad535)
    ![Jquery](https://img.shields.io/badge/Jquery-fcb9fc?style=for-the-badge&logo=Jquery&logoColor=da3561)
-   ![Gulp](https://img.shields.io/badge/Gulp-c998c9?style=for-the-badge&logo=Gulp&logoColor=43da35)
-
+   ![Gulp](https://img.shields.io/badge/Gulp-c998c9?style=for-the-badge&logo=Gulp&logoColor=43da35)   
+   ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-fcb9fc?style=for-the-badge&logo=BOOTSTRAP&logoColor=da3561)
+   ![AJAX](https://img.shields.io/badge/AJAX-c998c9?style=for-the-badge&logo=AJAX&logoColor=43da35)   
 
 + ### Back End
    ![PHP](https://img.shields.io/badge/PHP-fcb9fc?style=for-the-badge&logo=PHP&logoColor=da35da)
