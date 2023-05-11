@@ -1,4 +1,4 @@
-[![Header](https://github.com/pkmStudio/pmkStudio/blob/main/assets/banner.png)](https://t.me/pkmStudio)
+[![Header](https://github.com/pkmStudio/pkmStudio/blob/main/assets/banner.png)](https://t.me/pkmStudio)
 
 ## About me
 Всем привет! 
