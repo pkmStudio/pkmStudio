@@ -1,4 +1,4 @@
-[![Header](https://github.com/pmkStudio/pmkStudio/blob/main/assets/banner.png)](https://t.me/pmkStudio)
+[![Header](https://github.com/pkmStudio/pmkStudio/blob/main/assets/banner.png)](https://t.me/pkmStudio)
 
 ## About me
 Всем привет! 
@@ -32,10 +32,10 @@
 
 ## Plans
    ![Vue3](https://img.shields.io/badge/Vue_3-c998c9?style=for-the-badge&logo=V&logoColor=5c88cb)
-   ![Angular](https://img.shields.io/badge/Angular-fcb9fc?style=for-the-badge&logo=Angular)
    ![Laravel](https://img.shields.io/badge/Laravel-c998c9?style=for-the-badge&logo=Laravel)
+   ![Angular](https://img.shields.io/badge/Angular-fcb9fc?style=for-the-badge&logo=Angular)
    ![Java](https://img.shields.io/badge/Java-fcb9fc?style=for-the-badge)
    ![Python](https://img.shields.io/badge/Python-c998c9?style=for-the-badge&logo=Python)
 
 ## Folow me
-   [![Telegram](https://img.shields.io/badge/Telegram-c998c9?style=for-the-badge&logo=Telegram)](https://t.me/pmkStudio)
+   [![Telegram](https://img.shields.io/badge/Telegram-c998c9?style=for-the-badge&logo=Telegram)](https://t.me/pkmStudio)
