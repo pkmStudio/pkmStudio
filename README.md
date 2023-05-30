@@ -1,13 +1,14 @@
 [![Header](https://github.com/pkmStudio/pkmStudio/blob/main/assets/banner.png)](https://t.me/pkmStudio)
 
 ## About me
-Всем привет! 
+**Всем привет!**
 
-Мне 25. 
-Я Full Stack разработчик. 
-У меня высшее образование. 
+Мне 25, я FullStack разработчик. \
+У меня высшее образование и я веду [свой блог](https://t.me/pkmProgramming). \
 
-Моя цель каждый день:  "Это быть лучше, чем я есть". И успешно применять все, что я изучил!
+Моя цель каждый день:  "Это быть лучше, чем я есть и успешно применять все, что я изучил!"\
+
+Мои работы по верстке можно посмотреть в репозитории [works](https://github.com/pkmStudio/works). 
 
 
 ## Languages and Tools
@@ -35,7 +36,6 @@
    ![Laravel](https://img.shields.io/badge/Laravel-c998c9?style=for-the-badge&logo=Laravel)
    ![Angular](https://img.shields.io/badge/Angular-fcb9fc?style=for-the-badge&logo=Angular)
    ![Java](https://img.shields.io/badge/Java-fcb9fc?style=for-the-badge)
-   ![Python](https://img.shields.io/badge/Python-c998c9?style=for-the-badge&logo=Python)
 
 ## Folow me
    [![Telegram](https://img.shields.io/badge/Telegram-c998c9?style=for-the-badge&logo=Telegram)](https://t.me/pkmStudio)
